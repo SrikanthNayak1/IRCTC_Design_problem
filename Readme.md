@@ -16,8 +16,8 @@
 
 ## Installation
 
-1. Clone the repository:
-2. Navigate to the project directory:
+1. Clone the repository: `https://github.com/SrikanthNayak1/IRCTC_Design_problem.git`
+2. Navigate to the project directory: `cd IRCTC_Design_problem`
 3. Install dependencies: `npm install`
 4. Create a `.env` file and set the following environment variables:
    - `HOST`: MySQL database host
